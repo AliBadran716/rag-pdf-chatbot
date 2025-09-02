@@ -38,9 +38,6 @@ The app allows users to upload PDFs and query them in natural language, with con
 ┣ 📜 README.md
 ┗ 📷 screenshot.png
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Installation
