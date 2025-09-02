@@ -48,7 +48,7 @@ cd watsonx-rag-chatbot
 pip install -r requirements.txt
 python app.py
 ```
-📖 Usage
+## 📖 Usage
 Run the app (python app.py).
 
 Upload one or more PDFs.
@@ -57,7 +57,7 @@ Ask your questions in the chatbox.
 
 Get AI-powered answers with sources.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add multi-language support
 
 Enhance UI/UX
