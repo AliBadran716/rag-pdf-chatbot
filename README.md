@@ -31,13 +31,14 @@ The app allows users to upload PDFs and query them in natural language, with con
 ---
 
 ## 📂 Project Structure
+```bash
 📦 watsonx-rag-chatbot
 ┣ 📜 app.py # Main application
 ┣ 📜 cred.py # Credentials file (not uploaded – add your own)
 ┣ 📜 requirements.txt
 ┣ 📜 README.md
 ┗ 📷 screenshot.png
-
+```
 ---
 
 ## ⚙️ Installation
@@ -46,6 +47,7 @@ git clone https://github.com/yourusername/watsonx-rag-chatbot.git
 cd watsonx-rag-chatbot
 pip install -r requirements.txt
 python app.py
+```
 📖 Usage
 Run the app (python app.py).
 
